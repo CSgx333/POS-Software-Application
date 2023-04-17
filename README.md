@@ -1,2 +1,2 @@
-# POS-System-Application
+# POS System Application
 POS System application for shops
