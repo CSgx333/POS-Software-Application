@@ -1,5 +1,5 @@
 
-# POS System Application
+# POS Software Application
 Using Java language to develop, Use Mysql Workbench as a Database. It consists of a Selling System, CRUD System, Product and Stock, Manage Order.
 <p align="center">
   <img src="src/Image/Program/pos.png">
